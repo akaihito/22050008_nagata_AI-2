@@ -61,14 +61,14 @@
 以下の図は、アプリの各処理がどのように連携しているかを示しています。  
 外部APIから取得したデータは、バックエンドで整形・翻訳され、Streamlit UIで表示されます。
 
-![システム構成図](streamlit/system_diagram.png)
+![システム構成図](streamlit/image_doc/system_diagram.png)
 
 ## 📊 コード構成図（ファイル連携の流れ）
 
 以下の図は、アプリ内の各ファイルがどのように連携しているかを示したコード構成図です。  
 ユーザー入力 → ロジック処理 → データ取得・整形 → 表示 という流れが視覚的に整理されています。
 
-![コード構成図](streamlit/code.png)
+![コード構成図](streamlit/image_doc/code.png)
 
 ---
 
