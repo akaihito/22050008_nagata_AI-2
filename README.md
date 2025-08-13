@@ -61,5 +61,4 @@
 以下の図は、アプリの各処理がどのように連携しているかを示しています。  
 外部APIから取得したデータは、バックエンドで整形・翻訳され、Streamlit UIで表示されます。
 
-```markdown
-![システム構成図](streamlit_example/system_diagram.png)
+![システム構成図](system_diagram.png)
